@@ -1,0 +1,19 @@
+.titleDifference {
+  overflow: hidden;
+  border-right: .20em rgb(0, 128, 248);
+  white-space: nowrap;
+  -webkit-animation: typing 1.5s steps(20, end) forwards, blinking 1s infinite;
+  animation: typing 1.5s steps(20, end) forwards, blinking 1s infinite;
+}
+
+@keyframes typing{
+  from{width: 0;}
+  to{width: 100%;}
+}
+
+@keyframes blinking{
+  from{border-color: transparent;}
+  to{border-color: rgb(0, 128, 248);}
+
+
+}

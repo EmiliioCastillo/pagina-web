@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 365 512" style="enable-background:new 0 0 365 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E34E26;}
+	.st1{fill:#EF662A;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#EBEBEB;}
+</style>
+<g>
+	<g>
+		<g>
+			<g>
+				<path class="st0" d="M35,0h23.1v22.8h21.1V0h23.1v69H79.2V45.9H58.1V69H35V0L35,0z"/>
+				<path class="st0" d="M132.6,22.9h-20.3V0H176v22.9h-20.3V69h-23.1L132.6,22.9L132.6,22.9z"/>
+				<path class="st0" d="M186.2,0h24.1L225,24.3L239.8,0h24.1v69h-23V34.8L225,59.4h-0.4l-15.9-24.5V69h-22.6L186.2,0L186.2,0z"/>
+				<path class="st0" d="M275.4,0h23.1v46.2H331V69h-55.5V0H275.4z"/>
+			</g>
+		</g>
+	</g>
+	<g id="Guides_to_delete">
+		<g>
+			<polygon class="st0" points="33.8,470.7 0.7,99.3 364.3,99.3 331.2,470.8 182.4,512 			"/>
+			<polygon class="st1" points="182.5,129.7 182.5,480.4 302.8,447.1 331.2,129.7 			"/>
+			<polygon class="st2" points="68.4,175.2 80.7,313 238.6,313 233.3,372.1 182.4,385.8 131.7,372.1 128.3,334.1 82.6,334.1 
+				89.1,407.3 182.4,433.2 275.9,407.3 288.4,267.4 122.3,267.4 118.2,220.8 292.4,220.8 292.5,220.8 296.6,175.2 			"/>
+			<g>
+				<polygon class="st3" points="182.5,175.2 68.4,175.2 80.7,313 182.5,313 182.5,267.4 122.3,267.4 118.2,220.8 182.5,220.8 				
+					"/>
+				<polygon class="st3" points="182.5,385.8 182.4,385.8 131.7,372.1 128.3,334.1 82.6,334.1 89.1,407.3 182.4,433.2 182.5,433.2 
+									"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
