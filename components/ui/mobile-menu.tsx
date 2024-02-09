@@ -59,32 +59,26 @@ export default function MobileMenu() {
         className="absolute top-full z-20 left-0 w-full px-4 sm:px-6 overflow-hidden transition-all duration-300 ease-in-out"
         style={mobileNavOpen ? { maxHeight: mobileNav.current?.scrollHeight, opacity: 1 } : { maxHeight: 0, opacity: 0.8 }}
       >
-        <ul className="bg-gray-800 px-4 py-2">
+         <ul className="bg-gray-800 px-4 py-2">
           <li ><a href="#home" className='
           font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
           '>Inicio</a></li>
 
-          <li><a href="#services"
+          <li><a href="#seccion2"
            className='
            font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
            '
           >Servicios</a></li>
 
-          <li><a href="#folio"  className='
+          <li><a  href="#seccion3"  className='
            font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
-           '>Blog</a></li>
+           '>Productos</a></li>
 
-          <li><a href="#testimonials"  className='
+          <li><a href="#seccion4"  className='
            font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
-           '>Testimonios</a></li>
+           '>Contacto</a></li>
 
-          <li><a href="#contact"  className='
-           font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
-           '>Contactame</a></li>
-
-          <li><a href="" target="_blank"  className='
-           font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
-           '>Blog</a></li>
+        
         </ul>
       </nav>
     </div>
